@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="article_title">Syalalalala</string>
+    <string name="article_subtitle">Pelajari Bahasa Aneh</string>
+    <string name="article_text"> Menjadi programmer android sebaiknya kita mempelajari hal-hal yang berkaitan dengan bahasa pemrograman
+    yang sering digunakan didalam membuat aplikasi androidantara lain bahasa java namun tidak semua aplikasi android proses pembuatanya
+    menggunakan bahasa java, pada saat ini banyak tools yang disediakan guna mendukung bahasa pemrograman selain java.Namun jika teman-teman
+    tertarik menggunakan bahasa pemrograman Java sebaiknya teman-teman mempelajari hal-hal yang berkaitan dalam menjadi seorang programmer
+    android dibawah ini. Bahasa pemrograman tampilan apa itu bahasa pemrograman tampilan? bahasa yang digunakan dalam membuat tampilan suatu
+    aplikasi atau bisa disebut XML. XMLsendiri digunakan untuk membuat user interface berbeda dengan bahasa java yang berorientasikan OOP.Bahasa
+    ini membuat programmer bekerja pada bagian userinterface. \\n\n<b>Bahasa pemrograman Logic apa itu bahasa pemrograman logic?</b>
+    \n\n bahasa yang digunakan dalam membuat suatu program atau aplikasi yang pada dasarnya ketika teman-teman ingin membuat aplikasi android dan
+    Menjadi programmer android yang harus teman-teman gunakan yaitu bahasa Javakarena Java sendiri sangat erat hubungannya dengan sistem operasi
+    android, karena sejak awal rilisnya java merupakan bahasa utama untuk mengembangkan aplikasi pada sistem operasi ini. Bahasa pemograman yang
+    satu ini sebenarnya tidak terlalu kompleks dan bisa teman-teman pelajari secara otodidak karena materi pembelajarannya sendiri sudah sangat
+    banyak di internet Salah satunya adalah belajar di Udacity.com dan Codepolitan. Jika teman-teman ingin menjadi programmer android teman teman
+    harus mengetahui Pengetahuan dasar bahasa pemrograman java contohnya class, package dan konsep java sendiri.
+    \n\n<b>Kotlin</b> \n\n Kotlin merupakan bahasa yang didesain dan dikembangkan oleh JetBrains, perusahaan asal Ceko yang mengembangkan
+        berbagai IDE populer seperti IntelliJ IDEA, PyCharm, RubyMine, PhpStorm, dll. Bahkan Android Studio yang dipakai setiap programmer
+        Android professional merupakan IDE yang dikembangkan di atas IDEA. Pada bulan Mei yang lalu di event Google I/O 2017, tim Android Google
+        secara resmi mengumumkan dukungan penuh untuk bahasa pemrograman Kotlin untuk membuat aplikasi Android. </string>
+</resources>
